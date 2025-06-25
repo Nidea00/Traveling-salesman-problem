@@ -3,14 +3,6 @@
 #include <random>
 #include <vector>
 
-class loop{
-public:
-	int cost = -1 ;
-	std::vector<int> path ;
-	
-	int getCost(const std::vector<std::vector<int>>&) ;
-};
-
 // Solve TSP by the simulated anealing method
 class simulated_annealing{
 private:
