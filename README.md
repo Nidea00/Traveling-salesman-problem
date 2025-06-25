@@ -6,3 +6,6 @@ Given a series of distance between each cities, find the route traversing all ci
 A distance matrix with 26 nodes, the minimal tour has length 937.
 
 ## Using the simulated annealing method
+
+The simulated annealing method is heuristic.
+It will converge after many enough(n->inf) iterations.
